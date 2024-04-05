@@ -16,5 +16,15 @@ let firstName = "harshit";
 // start index 
 // end index
 
+
+trim() in JavaScript:
+Function: Removes leading and trailing whitespace (spaces, tabs, newlines, carriage returns) from a string.
+Input: String
+Output: New string with trimmed whitespace
+Original String: Unmodified
+
+
+
+
 let newString = firstName.slice(1); // hars
 console.log(newString);
